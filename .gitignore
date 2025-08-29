@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv/
+
+# Large files
+*.h5
+*.pkl
+*.pt
+
+# OS / IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Virtual Environments
+heart/
