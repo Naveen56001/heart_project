@@ -6,29 +6,6 @@ For explaining the prediction made by Xgboost along with the SHAP values, the ph
 
 ---
 
-## 📂 Project Structure
-
-streamlit-ml-app/
-│
-├── app.py                      # Entry point for Streamlit UI
-│
-├── backend/
-│   ├── __init__.py
-│   ├── prediction_system.py    # ML model loading + predictions
-│   ├── llm_service.py          # Handles LLM (Ollama) explanation
-│   └── utils.py                # Shared helpers (hashing, etc.)
-│
-├── models/
-│   ├── scaler.joblib
-│   ├── shap_tree_explainer.joblib
-│   └── xgb_model.joblib
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
----
-
 ## ⚡ Features
 
 - Interactive frontend with Streamlit
