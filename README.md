@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Prediction using Machine Learning and Explainable AI Techniques
 
 This is a heart disease prediction system using Machine Learning and Explianble AI Techniques. Xgboost has been used for the prediction, along with SHAP (Shapley Additive eXplanations) feature, SHAP extracts the most important features which helped in the prediction. A patient can reduce the risk of heart disease if he/she focus on those features and take care of their health accordingly.
@@ -85,3 +86,4 @@ The models/ folder already contains:
 Contributions are welcome! Please fork the repo and submit a pull request.
 
 ---
+=======
